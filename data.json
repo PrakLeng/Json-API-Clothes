@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Black T-Shirt",
+        "description": "Cotton Black T-Shirt, Size M",
+        "images":"https://i.pinimg.com/736x/10/f4/1a/10f41a3ab31cd3db32d2651c9c0b93d1.jpg",
+        "price": 12
+    },
+    {
+        "id": 3,
+        "name": "Sweatshirts",
+        "description": "VFIVE UNFOUR 350gsm Thick Cotton Lined Hoodies Winter Oversized Blank Hoodies Warm Sweatshirts",
+        "images":"",
+        "price": 25
+    },
+    {
+        "id": 3,
+        "name": "Heren gestreepte color-block pullover trui",
+        "description": "Heren gestreepte color-block pullover trui Leger groen Vrijetijds-stijlvolle vrijetijdsbesteding Lange mouwen Breiwerk Gestreept Pullovers Lichte stretch Lente/Herfst,Herfst/Winter Men Clothing, size features are:Bust: ,Length: ,Sleeve Length:",
+        "images":"https://i.pinimg.com/1200x/8a/f5/12/8af512852012e7a58b57068ae5367c10.jpg",
+        "price": 15
+    },
+    {
+        "id": 4,
+        "name": "Brut Jeans",
+        "description": "Brut Jeans, Size 32",
+        "images":"https://i.pinimg.com/1200x/8a/f5/12/8af512852012e7a58b57068ae5367c10.jpg",
+        "price": 30
+    },
+    {
+        "id": 5,
+        "name": "Rugby T-shirt_Black",
+        "description": "Semi Oversized Summer Rugby T-shirt_Black",
+        "images":"https://i.pinimg.com/1200x/a3/d5/ca/a3d5ca7f14c9622ac98cdb0a7e61a37c.jpg",
+        "price": 20
+    }
+]
